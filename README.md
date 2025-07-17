@@ -90,6 +90,13 @@ https://youtu.be/nDBsC1EKSE8
 
 &nbsp;
 
+- **프로젝트 시나리오**   
+<img src="rokey_pjt_turtle4/rokey_pjt/image/250717_system_flow_detail_1.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
+<img src="rokey_pjt_turtle4/rokey_pjt/image/250717_system_flow_detail_2.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
+<img src="rokey_pjt_turtle4/rokey_pjt/image/250717_system_flow_detail_3.png" width="75%" height="75%" title="px(픽셀) 크기 설정" alt="system_flow"></img>
+
+&nbsp;
+
 
 
 ## 8. 🔍 프로젝트 기대효과
