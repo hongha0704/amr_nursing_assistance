@@ -53,14 +53,14 @@ https://youtu.be/nDBsC1EKSE8
 ## 2. 👥 프로젝트 팀 구성 및 역할분담
 | 이름 | 역할 |
 |------|------|
-| 백홍하(팀장) | /robot4/Vision , Main Controller GUI, ROS 통신 |
-| 이하빈 | /robot4/Vision , ROS 통신 |
-| 장연호 | /robot4/Navigation , EMQX Cloud 통신 |
-| 정찬원 | /robot4/Navigation ,영상 편집 |
+| 백홍하(팀장) | /robot4/Vision, Main Controller GUI, ROS 통신 |
+| 이하빈 | /robot4/Vision, ROS 통신 |
+| 장연호 | /robot4/Navigation, EMQX Cloud 통신 |
+| 정찬원 | /robot4/Navigation, 영상 편집 |
 | 이경민 | /robot1/Vision |
 | 최정호 | /robot1/Vision |
-| 문준웅 | /robot1/Navigation , Main Controller GUI |
-| 정민섭 | /robot1/Navigation , 바이탈 체크 기능 개발 |
+| 문준웅 | /robot1/Navigation, Main Controller GUI |
+| 정민섭 | /robot1/Navigation, 바이탈 체크 기능 개발 |
 
 &nbsp;
 
