@@ -31,7 +31,7 @@ code: [main_robot_control.py](rokey_pjt_turtle4/rokey_pjt/rokey_pjt/robot4_navig
 ros2 run rokey_pjt robot4_navigation
 ```
 
-### 아래 런치 파일로 모두 실행 가능
+### 아래 런치 파일로 모든 노드 실행
 #### **launch**
 code: [robot4.launch.py](rokey_pjt_turtle4/rokey_pjt/launch/robot4.launch.py)
 ```bash
