@@ -20,13 +20,13 @@ ros2 run rokey_pjt main_controller
 ```
 
 #### **vision node**
-code: [main_vision_realsense.py](rokey_pjt_turtle4/rokey_pjt/rokey_pjt/robot4_vision.py)
+code: [robot4_vision.py](rokey_pjt_turtle4/rokey_pjt/rokey_pjt/robot4_vision.py)
 ```bash
 ros2 launch rokey_pjt robot4_vision.launch.py
 ```
 
 #### **navigation node**
-code: [main_robot_control.py](rokey_pjt_turtle4/rokey_pjt/rokey_pjt/robot4_navigation.py)
+code: [robot4_navigation.py](rokey_pjt_turtle4/rokey_pjt/rokey_pjt/robot4_navigation.py)
 ```bash
 ros2 run rokey_pjt robot4_navigation
 ```
